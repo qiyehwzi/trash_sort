@@ -1,0 +1,12 @@
+f427_uart\td.o: ..\controller\TD.c
+f427_uart\td.o: ../algorithm/Include/arm_math.h
+f427_uart\td.o: ../Drivers/CMSIS/Include/core_cm4.h
+f427_uart\td.o: G:\keil\KeilMDK\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+f427_uart\td.o: ../Drivers/CMSIS/Include/cmsis_version.h
+f427_uart\td.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+f427_uart\td.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+f427_uart\td.o: G:\keil\KeilMDK\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+f427_uart\td.o: G:\keil\KeilMDK\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+f427_uart\td.o: ../algorithm/user_lib.h
+f427_uart\td.o: ../boards/struct_typedef.h
+f427_uart\td.o: ..\controller\TD.h
